@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//skhosla8.github.io/time-tracking-dashboard/static/css/main.717641ea.css",
-    "main.js": "/https//skhosla8.github.io/time-tracking-dashboard/static/js/main.8eb32772.js",
-    "static/media/image-jeremy.png": "/https//skhosla8.github.io/time-tracking-dashboard/static/media/image-jeremy.71cd41f11bee24c1ded3.png",
-    "static/media/icon-exercise.svg": "/https//skhosla8.github.io/time-tracking-dashboard/static/media/icon-exercise.3e7b028289414a13231843557ae074f7.svg",
-    "static/media/icon-social.svg": "/https//skhosla8.github.io/time-tracking-dashboard/static/media/icon-social.64be0c18d185740e487b8efaebb31183.svg",
-    "static/media/icon-study.svg": "/https//skhosla8.github.io/time-tracking-dashboard/static/media/icon-study.1f0a65e457bfa63988275be35e86407e.svg",
-    "static/media/icon-play.svg": "/https//skhosla8.github.io/time-tracking-dashboard/static/media/icon-play.e8d4e5699b0e441f8baf9e7692e15167.svg",
-    "index.html": "/https//skhosla8.github.io/time-tracking-dashboard/index.html",
-    "static/media/icon-work.svg": "/https//skhosla8.github.io/time-tracking-dashboard/static/media/icon-work.a3f124e593ab45ba795f6a068fe710ce.svg",
-    "static/media/icon-self-care.svg": "/https//skhosla8.github.io/time-tracking-dashboard/static/media/icon-self-care.8f461f4a64cf2a83fd3914be741d2fa5.svg",
-    "main.717641ea.css.map": "/https//skhosla8.github.io/time-tracking-dashboard/static/css/main.717641ea.css.map",
-    "main.8eb32772.js.map": "/https//skhosla8.github.io/time-tracking-dashboard/static/js/main.8eb32772.js.map"
+    "main.css": "/time-tracking-dashboard/static/css/main.717641ea.css",
+    "main.js": "/time-tracking-dashboard/static/js/main.8f15c5a0.js",
+    "static/media/image-jeremy.png": "/time-tracking-dashboard/static/media/image-jeremy.71cd41f11bee24c1ded3.png",
+    "static/media/icon-exercise.svg": "/time-tracking-dashboard/static/media/icon-exercise.3e7b028289414a13231843557ae074f7.svg",
+    "static/media/icon-social.svg": "/time-tracking-dashboard/static/media/icon-social.64be0c18d185740e487b8efaebb31183.svg",
+    "static/media/icon-study.svg": "/time-tracking-dashboard/static/media/icon-study.1f0a65e457bfa63988275be35e86407e.svg",
+    "static/media/icon-play.svg": "/time-tracking-dashboard/static/media/icon-play.e8d4e5699b0e441f8baf9e7692e15167.svg",
+    "index.html": "/time-tracking-dashboard/index.html",
+    "static/media/icon-work.svg": "/time-tracking-dashboard/static/media/icon-work.a3f124e593ab45ba795f6a068fe710ce.svg",
+    "static/media/icon-self-care.svg": "/time-tracking-dashboard/static/media/icon-self-care.8f461f4a64cf2a83fd3914be741d2fa5.svg",
+    "main.717641ea.css.map": "/time-tracking-dashboard/static/css/main.717641ea.css.map",
+    "main.8f15c5a0.js.map": "/time-tracking-dashboard/static/js/main.8f15c5a0.js.map"
   },
   "entrypoints": [
     "static/css/main.717641ea.css",
-    "static/js/main.8eb32772.js"
+    "static/js/main.8f15c5a0.js"
   ]
 }
